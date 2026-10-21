@@ -1,0 +1,4 @@
+# Compiled programs and debug symbols (rebuilt every time you press F5)
+*.out
+*.dSYM/
+.DS_Store
